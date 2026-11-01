@@ -1,6 +1,6 @@
 # Lectura Fácil
 
-**Enlace a la app:** [pendiente de desplegar]
+**Enlace a la app:** https://reto-ia-lectura-facil-lytixxzofy7zoxqckblkau.streamlit.app/
 **Autor/a:** [tu nombre]
 
 - **Qué usa:** API de Gemini (`gemini-2.5-flash`), Streamlit, `google-genai`.

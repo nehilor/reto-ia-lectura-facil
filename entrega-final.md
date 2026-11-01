@@ -2,8 +2,8 @@
 
 ## 1. Enlaces
 
-- App desplegada: [https://...streamlit.app]
-- Repositorio: [https://github.com/...]
+- App desplegada: https://reto-ia-lectura-facil-lytixxzofy7zoxqckblkau.streamlit.app/
+- Repositorio: https://github.com/nehilor/reto-ia-lectura-facil
 
 ## 2. Problema y usuario
 
