@@ -42,4 +42,18 @@ streamlit run app.py
 
 ## Capturas
 
-[La app funcionando, la app ante un caso límite, un momento de tu trabajo con la IA y la prueba.]
+La app funcionando: convierte una notificación del ayuntamiento en lectura fácil.
+
+![App funcionando](screenshots/01-app-funcionando.jpg)
+
+Caso límite: si el campo está vacío, la app avisa y no llama al modelo.
+
+![Caso límite](screenshots/02-caso-limite.jpg)
+
+Trabajo con IA: el fichero de contexto AGENTS.md que leen los agentes.
+
+![Trabajo con IA](screenshots/03-trabajo-con-ia.jpg)
+
+Prueba: una carta distinta (un banco) convertida, en el papel del usuario.
+
+![Prueba](screenshots/04-prueba-propia.jpg)

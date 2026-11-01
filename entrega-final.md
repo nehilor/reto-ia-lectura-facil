@@ -25,7 +25,9 @@ API de Gemini. La app prueba en orden `gemini-2.5-flash`, `gemini-3.8-flash` y `
 
 ## 6. Prueba y mejora
 
-[Quién probó la app, qué pasó y qué cambiaste a partir de ahí.]
+Prueba propia, en el papel del usuario: probé la app con dos textos distintos, una notificación de tasa municipal y una carta de cambio de condiciones de un banco. En los dos casos devolvió las cuatro secciones y extrajo bien la acción y la fecha. También probé el caso límite de enviar el campo vacío: la app avisa y no llama al modelo.
+
+[Pendiente: prueba de un compañero en la semana 3, qué pasó y un cambio concreto hecho a partir de su feedback, más el feedback que tú dejaste en el debate.]
 
 ## 7. Pitch escrito
 
@@ -33,7 +35,18 @@ Muchas personas mayores y personas que aprenden el idioma reciben cartas oficial
 
 ## 8. Capturas
 
-- [captura: la app funcionando]
-- [captura: la app ante un caso límite]
-- [captura: un momento del trabajo con la IA]
-- [captura: la prueba entre compañeros]
+Captura 1: la app funcionando. Convierte una notificación del ayuntamiento en lectura fácil.
+
+![App funcionando](screenshots/01-app-funcionando.jpg)
+
+Captura 2: caso límite. Con el campo vacío, la app avisa y no llama al modelo.
+
+![Caso límite](screenshots/02-caso-limite.jpg)
+
+Captura 3: trabajo con IA. El fichero de contexto AGENTS.md que leen los agentes.
+
+![Trabajo con IA](screenshots/03-trabajo-con-ia.jpg)
+
+Captura 4: prueba propia. Una carta distinta (un banco) convertida, en el papel del usuario.
+
+![Prueba](screenshots/04-prueba-propia.jpg)
