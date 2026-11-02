@@ -31,7 +31,12 @@ Partí de la plantilla de la Ruta A de la asignatura y la adapté de un chat a u
 
 ## Prueba y mejora
 
-[Rellena después de la prueba entre compañeros: quién la probó, qué pasó y qué cambiaste.]
+| Quién probó | Qué probó | Qué pasó | Qué cambié | Cómo mejoró |
+|---|---|---|---|---|
+| Luis Andrés Colón (compañero de clase) | Abrió la app en el móvil y convirtió una carta | Funcionó y dio el visto bueno: "gran mejoría, excelente" | No pidió cambios | Confirmó que se entiende y funciona bien desde el teléfono |
+| Prueba propia (autor) | Dos cartas reales (ayuntamiento y banco) y el caso del campo vacío | La conversión salió bien; con la cuota del modelo agotada la app se quedaba sin una respuesta clara | Añadí un modelo de reserva, un mensaje de error claro y un aviso cuando el campo está vacío | Si un modelo falla pasa al siguiente; con el campo vacío ya no llama al modelo y avisa |
+
+Quien me dio feedback fue mi compañero Luis Andrés Colón, que probó la app desde el móvil y confirmó que funcionaba bien tras mis ajustes. En mi propia prueba, en el papel del usuario, convertí dos cartas distintas (una tasa municipal y un cambio de condiciones de un banco) y en los dos casos devolvió las cuatro secciones y extrajo bien la acción y la fecha. La mejora concreta salió de esas pruebas: añadí un modelo de reserva y un mensaje de error claro, para que si un modelo se cae o se agota la cuota la app pase al siguiente y avise en vez de romperse, y dejé el aviso para cuando el campo está vacío.
 
 ## Ejecutar en local (opcional)
 
